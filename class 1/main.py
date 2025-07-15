@@ -1,8 +1,6 @@
 # import math
 
 # math.
-
-
 print("Hello World")
 
 name = "Kashan"
